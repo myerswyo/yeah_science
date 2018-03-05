@@ -26,6 +26,7 @@ function drawOval(x, y, d){
     setTimeout(drawOval, 500, x + d * .5, y, d * .75);
     setTimeout(drawOval, 500, x - d * .5, y, d* .75);
   }
+
   // // if(x < WINDOWWIDTH && d > 20){   // width of window
   // //   setTimeout(drawOval, 500, x + 35, y - 35, d * .75);
   // // }

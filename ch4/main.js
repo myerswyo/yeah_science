@@ -6,7 +6,7 @@
 // console.log(x);
 // }else{ n = 3*n+1;
 // console.log(x);}}};
-//
+//la lal allalalala
 // }
 
 
