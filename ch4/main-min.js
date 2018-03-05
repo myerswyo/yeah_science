@@ -1,0 +1,1 @@
+function abs(s){return s<0?-s:s}function testAbs(){console.log("abs of -5 is: "+abs(-5)),console.log("abs of 7 is: "+abs(7)),console.log("abs of 0 is: "+abs(0))}testAbs();
